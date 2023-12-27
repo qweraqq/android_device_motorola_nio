@@ -21,7 +21,7 @@ DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 TARGET_KERNEL_CONFIG := vendor/lineageos_nio_defconfig
 
 # Security patch level
-VENDOR_SECURITY_PATCH := 2022-06-01
+VENDOR_SECURITY_PATCH := 2023-08-01
 
 # SEPolicy
 BOARD_VENDOR_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy/vendor
